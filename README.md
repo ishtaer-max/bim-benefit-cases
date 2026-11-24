@@ -1,5 +1,7 @@
 # Verified BIM benefit cases
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24496823.svg)](https://doi.org/10.5281/zenodo.24496823)
+
 The dataset behind **[The Light Side of BIM: The Projects That Proved It Works](https://solebo.org/light-side-of-bim/)** (Ivan Shtaer, Solebo, 2026).
 
 17 named construction and asset-management projects where a benefit attributable to building information modelling was actually measured — from the Kai Tak Sports Park roof in Hong Kong to the turnaround of a live LNG plant — with each figure rated by the strength of the source behind it.
@@ -35,4 +37,4 @@ If you know a measured BIM benefit on a named project with a source strong enoug
 
 ## Cite
 
-> Shtaer, I. (2026) *Verified BIM benefit cases* (v1.0) [Data set]. Solebo. https://solebo.org/light-side-of-bim/
+> Shtaer, I. (2026) *Verified BIM benefit cases* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24496823 — https://solebo.org/light-side-of-bim/
