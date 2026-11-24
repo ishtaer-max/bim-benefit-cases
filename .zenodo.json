@@ -1,0 +1,33 @@
+{
+  "title": "Verified BIM benefit cases",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "publication_date": "2026-07-28",
+  "description": "<p>17 named construction and asset-management projects where a benefit attributable to building information modelling was measured, with each figure rated by the strength of the source behind it (STRONG / MEDIUM+ / MEDIUM). Covers early design to live plant maintenance.</p><p>Full discussion: <a href=\"https://solebo.org/light-side-of-bim/\">The Light Side of BIM: The Projects That Proved It Works</a>.</p>",
+  "creators": [
+    {
+      "name": "Shtaer, Ivan",
+      "affiliation": "Solebo"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "BIM",
+    "building information modelling",
+    "BIM benefits",
+    "case studies",
+    "construction productivity",
+    "asset management",
+    "digital twin"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://solebo.org/light-side-of-bim/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "notes": "Companion dataset (audited ISO 19650 overruns): https://doi.org/10.5281/zenodo.24496452",
+  "language": "eng"
+}
